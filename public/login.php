@@ -1,4 +1,5 @@
 <?php 
+// This is a modification made from the Mac 
 session_start(); //ESSENTIAL
 include('includes/user.class.php'); 
 $user = new User();
