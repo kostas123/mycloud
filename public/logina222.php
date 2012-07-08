@@ -1,4 +1,6 @@
 <?php 
+//This comment was made from the Pc
+
 session_start(); //ESSENTIAL
 include('includes/user.class.php'); 
 $user = new User();
