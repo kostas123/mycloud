@@ -1,4 +1,5 @@
-<?php 
+<?php
+//And this modification was made from my Pc 
 // This is a modification made from the Mac 
 session_start(); //ESSENTIAL
 include('includes/user.class.php'); 
